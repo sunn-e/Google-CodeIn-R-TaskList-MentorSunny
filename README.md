@@ -1,7 +1,14 @@
-# Google-CodeIn-R-TaskList-Mentor: Sunny
+# Google Code In Tasklist 
+## by @sunn-e for R project for statistical learning.
 
-This repo will contain tasks to be claimed by my GCI Mentees.
-Hi, I am Sunny. You may refere to me as `@sunn-e` on gitter channel.  I will be one of the mentor for your Google Code In journey this year. The tasks given below will introduce to the world of open source softwares. You are encouraged to ask me any question related to the task. I will reply to you as soon as possible. You can email me too. `sunnydhoke22@gmail.com`
+[](https://codein.withgoogle.com/organizations/r-project-for-statistical-computing/)
+
+---
+
+Hi, I am Sunny. You may refere to me as `@sunn-e` on gitter channel. 
+This repo will contain tasks to be claimed by my GCI Mentees. I will be one of the mentor for your Google Code In journey this year. The tasks given below will introduce to the world of open source softwares. You are encouraged to ask me any question related to the task. I will reply to you as soon as possible. 
+Incase you want anything to be included here, create a pull request. You may also refer the cheetsheets.
+
 
 Task Name/ Title | Description | Instance Count | Time to complete | External URL | Task Categorization | Categories
 -----------------|-------------|----------------|------------------|--------------|---------------------|-----------
@@ -21,3 +28,6 @@ Task 13 : Create YouTube/Vimeo videos | Video of case study of your choice with 
 Task 14 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
 Task 15 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
 Task 11 : Create Web Aplication or Website | Gather the data described in task 1 to 5 and make a website that display that data. You have the freedom to make it as a website or web app. | 3 | ---| ---| 
+
+You can email me too. `sunnydhoke22@gmail.com`.
+Best Wishes. May you win this year's GCI. 
