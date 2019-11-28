@@ -1,14 +1,15 @@
 # Google-CodeIn-R-TaskList-Mentor: Sunny
- This repo will contain tasks to be claimed by my GCI Mentees.
 
+This repo will contain tasks to be claimed by my GCI Mentees.
+Hi, I am Sunny. You may refere to me as `@sunn-e` on gitter channel.  I will be one of the mentor for your Google Code In journey this year. The tasks given below will introduce to the world of open source softwares. You are encouraged to ask me any question related to the task. I will reply to you as soon as possible. You can email me too. `sunnydhoke22@gmail.com`
 
 Task Name/ Title | Description | Instance Count | Time to complete | External URL | Task Categorization | Categories
 -----------------|-------------|----------------|------------------|--------------|---------------------|-----------
-Task 01: Use the StackOverflow Data Explorer | Find the number of StackOverflow questions tagged R  ,year wise. | 3  |------------------|--------------|---------------------|-----------
-Task 02: Use the StackOverflow Data Explorer| Find a page View count for StackOverflow questions tagged R  ,year wise.| 3 |------------------|--------------|---------------------|-----------
-Task 03: Use the StackOverflow Data Explorer| Find the answer count for StackOverflow questions tagged R ,year wise.| 3 |------------------|--------------|---------------------|-----------
-Task 04: Use the StackOverflow Data Explorer| Find the comment count for StackOverflow questions tagged R  ,year wise.| 3  |------------------|--------------|---------------------|-----------
-Task 05: Use the StackOverflow Data Explorer| Combine this data and past available data into a CSV or JSON data store | 3 |------------------|--------------|---------------------|-----------
+Task 01: Use the StackOverflow Data Explorer-1 | Find the number of StackOverflow questions tagged R  ,year wise. | 3  |------------------|--------------|---------------------|-----------
+Task 02: Use the StackOverflow Data Explorer-2| Find a page View count for StackOverflow questions tagged R  ,year wise.| 3 |------------------|--------------|---------------------|-----------
+Task 03: Use the StackOverflow Data Explorer-3| Find the answer count for StackOverflow questions tagged R ,year wise.| 3 |------------------|--------------|---------------------|-----------
+Task 04: Use the StackOverflow Data Explorer-4| Find the comment count for StackOverflow questions tagged R  ,year wise.| 3  |------------------|--------------|---------------------|-----------
+Task 05: Use the StackOverflow Data Explorer-5| Combine this data and past available data into a CSV or JSON data store | 3 |------------------|--------------|---------------------|-----------
 Task 06: Use Medium blogs| Write a blog series on the most frequesntly used R questions |3 |------------------|--------------|---------------------|-----------
 Task 07: Use blog tools | Generate a PDF and Markdown version of the blog series generated in task 06| 3 |------------------|--------------|---------------------|-----------
 Task 08: Create YouTube/Vimeo videos | Installation of R software for Linux based operating Systems |3|------------------|--------------|---------------------|-----------
