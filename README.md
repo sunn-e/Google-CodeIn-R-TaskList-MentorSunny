@@ -23,10 +23,10 @@ Task 08: Create YouTube/Vimeo videos | Installation of R software for Linux base
 Task 09: Create YouTube/Vimeo videos | Installation of R software for Latest Windows Operating System | 3 |------------------|--------------|---------------------|-----------
 Task 10: Create YouTube/Vimeo videos | Installation of R software for Latest Mac Operating System | 3 |------------------|--------------|---------------------|-----------
 Task 11 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 |--- | ----|----
-Task 12 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
-Task 13 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
-Task 14 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
-Task 15 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 1 of R Case study series playlist) | 3 | ---| ---|----
+Task 12 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 2 of R Case study series playlist) | 3 | ---| ---|----
+Task 13 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 3 of R Case study series playlist) | 3 | ---| ---|----
+Task 14 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 4 of R Case study series playlist) | 3 | ---| ---|----
+Task 15 : Create YouTube/Vimeo videos | Video of case study of your choice with R (Case Study 5 of R Case study series playlist) | 3 | ---| ---|----
 Task 15 : Create Web Aplication or Website | Gather the data described in task 1 to 5 and make a website that display that data. You have the freedom to make it as a website or web app. | 3 | ---| ---| 
 
 You can email me too. `sunnydhoke22@gmail.com`.
