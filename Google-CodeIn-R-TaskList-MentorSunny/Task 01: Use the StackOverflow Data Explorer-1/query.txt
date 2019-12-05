@@ -1,0 +1,11 @@
+SELECT
+    datepart(year,CreationDate) as year,
+    COUNT(id) as total
+FROM
+    Posts
+WHERE
+    PostTypeId = 1 AND tags LIKE '%<r>%'
+GROUP BY
+    datepart(year,CreationDate)
+ORDER BY
+    datepart(year,CreationDate)
