@@ -9,6 +9,9 @@ Hi, I am Sunny. You may refere to me as `@sunn-e` on gitter channel.
 This repo will contain tasks to be claimed by my GCI Mentees. I will be one of the mentor for your Google Code In journey this year. The tasks given below will introduce to the world of open source softwares. You are encouraged to ask me any question related to the task. I will reply to you as soon as possible. 
 Incase you want anything to be included here, create a pull request. You may also refer the cheetsheets.
 
+## important
+
+Clone this repo and after you complete your task instance, send your submission to google as well as here in a new folder with task name. Send PR. This way I can comment right away and it's easy to review over here. Good luck pal.
 
 Task Name/ Title | Description | Instance Count | Time to complete | External URL | Task Categorization | Categories
 -----------------|-------------|----------------|------------------|--------------|---------------------|-----------
