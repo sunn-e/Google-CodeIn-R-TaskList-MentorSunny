@@ -13,6 +13,8 @@ Incase you want anything to be included here, create a pull request. You may als
 
 Clone this repo and after you complete your task instance, send your submission to google as well as here in a new folder with task name. Send PR. This way I can comment right away and it's easy to review over here. Good luck pal.
 
+## Table
+
 Task Name/ Title | Description | Instance Count | Time to complete | External URL | Task Categorization | Categories
 -----------------|-------------|----------------|------------------|--------------|---------------------|-----------
 Task 01: Use the StackOverflow Data Explorer-1 | Find the number of StackOverflow questions tagged R  ,year wise. | 3  |------------------|--------------|---------------------|-----------
