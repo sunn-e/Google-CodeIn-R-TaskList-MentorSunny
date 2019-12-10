@@ -11,7 +11,7 @@ Incase you want anything to be included here, create a pull request. You may als
 
 ### Tip
 
-If you need more time for a given task, mail me on my mail given on GCI dashboard, Subject: Task Date Extension
+If you need more time for a given task, mail me on my mail given somewhere on this page, Subject: Task Date Extension
 and desribe why you may need it. I will be more than happy to do that for deserving students. :)
 
 ## important
