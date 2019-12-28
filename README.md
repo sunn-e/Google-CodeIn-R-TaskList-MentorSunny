@@ -27,7 +27,7 @@ Task 02: Use the StackOverflow Data Explorer-2| Find a page View count for Stack
 Task 03: Use the StackOverflow Data Explorer-3| Find the answer count for StackOverflow questions tagged R ,year wise.| 3 |------------------|--------------|---------------------|-----------
 Task 04: Use the StackOverflow Data Explorer-4| Find the comment count for StackOverflow questions tagged R  ,year wise.| 3  |------------------|--------------|---------------------|-----------
 Task 05: Use the StackOverflow Data Explorer-5| Combine this data and past available data into a CSV or JSON data store | 3 |------------------|--------------|---------------------|-----------
-Task 06: Use Medium blogs| Write a blog series on the most frequesntly used R questions |3 |------------------|--------------|---------------------|-----------
+Task 06: Use Medium blogs| Write a blog series on the most frequently used R questions |3 |------------------|--------------|---------------------|-----------
 Task 07: Use blog tools | Generate a PDF and Markdown version of the blog series generated in task 06| 3 |------------------|--------------|---------------------|-----------
 Task 08: Create YouTube/Vimeo videos | Installation of R software for Linux based operating Systems |3|------------------|--------------|---------------------|-----------
 Task 09: Create YouTube/Vimeo videos | Installation of R software for Latest Windows Operating System | 3 |------------------|--------------|---------------------|-----------
